@@ -1,0 +1,2 @@
+Here is a SQL query to find the salesperson and customer who reside in the same city and return Salesman, cust_name, and city.
+This query uses a JOIN to combine the salesman and customer tables based on the salesman_id column. The WHERE clause is used to filter the results to only include rows where the salesman and customer reside in the same city. The SELECT statement specifies the columns to be returned, with the AS keyword used to rename the salesman name column as "Salesman".
